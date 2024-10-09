@@ -1,9 +1,5 @@
 # Data_Analysis_on_Electric_Vehicle
-🚀 Excited to share my latest project on Electric Vehicle (EV) data analysis! 🚗⚡
-
-I recently completed 🙌 my another project at Innomatics Research Labs on Data Analysis on Electric Vehicle (EV) ⚡🚗 . I had been given a dataset, on which I did Exploratory Data Analysis (EDA) where I analyzed and visualized the given data. 
-
-I was assigned 3 tasks during the project:
+The project contains 3 tasks to complete:
 
 Task 1: To Apply Exploratory Data Analysis (Univariate and Bivariate) on the dataset given.
 
